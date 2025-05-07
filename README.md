@@ -1,6 +1,6 @@
-## Construct FLIM images from .ptu files
+# Construct FLIM images from .ptu files
 
-# Installation
+## Installation
 
 To create and activate new environment use
 
