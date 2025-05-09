@@ -1,0 +1,11 @@
+name: read_ptu_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib==3.10.1
+  - numpy==2.2.5
+  - pandas==2.2.3
+  - ptufile==2025.2.20
+  - scipy==1.15.2
+  - xarray==2025.4.0
